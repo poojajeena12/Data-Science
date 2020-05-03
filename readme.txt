@@ -1,1 +1,1 @@
-A linear regression model will be uploaded soon.
+A linear regression model.
